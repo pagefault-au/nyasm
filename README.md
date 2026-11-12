@@ -2,7 +2,7 @@
 
 A fast and correct disassembly and encoding framework.
 
-x86, ARM and RISC-V are supported.
+CIL, x86, ARM and RISC-V are supported.
 
 ![Decoding](images/decoding.png)
 
