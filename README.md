@@ -1,21 +1,11 @@
-# Nyasm
+<p align="center">
+  <img src="images/banner.png" alt="nyasm — a fast and correct disassembly and encoding framework" width="720">
+</p>
 
-A fast and correct disassembly and encoding framework.
+Supports **x86** (16, 32 and 64-bit), **AArch64**, **AArch32** (A32/T32), **RISC-V** (RV32/RV64) and **CIL**.
 
-CIL, x86, ARM and RISC-V are supported.
+> [!WARNING]
+> nyasm is under active development. The decode and encode APIs are about to change, and an asmjit-style
+> assembler frontend is a work in progress. Expect breaking changes between releases.
 
-![Decoding](images/decoding.png)
-
-![Segments](images/info.png)
-
-![x87](images/x87.png)
-
-![AVX-512](images/vector.png)
-
-![GFNI](images/gf2p8.png)
-
-![Evaluation](images/session.png)
-
-![MPX](images/mpx.png)
-
-With ❤️ from pushfq 🇦🇺
+<p align="center">With ❤️ from pushfq 🇦🇺</p>
